@@ -18,7 +18,7 @@
 ## Skills Demonstrated
 
 - **Data modeling**: Tables with FK constraints & normalization
-- **Complex JOINs**: LEFT JOIN FK across 3+ tables
+- **Complex JOINs**: LEFT JOIN across 3+ tables
 - **Aggregations**: GROUP BY, COUNT, MIN/MAX analytics
 - **Set operations**: INTERSECT multi-subquery logic
 - **Business reporting**: Schedule analysis & insights
